@@ -1,0 +1,15 @@
+
+  \{^_^}/ hi!
+
+  Loading ./server/database.json
+  Done
+
+  Resources
+  http://localhost:8080/api/products
+
+  Home
+  http://localhost:8080/api
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
